@@ -4,3 +4,5 @@ The code is a mobile application. Customers can order pasta or fried chicken by 
 Firstly, use order 'npm install' install node module.
 Secondly, run it without debuging.
 Thirdly, open a browser and type what you'd like to order and then submit.
+/// this is from backup folder to use pull requests.
+I use this license random, no specific reasons.
